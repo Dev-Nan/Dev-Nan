@@ -43,15 +43,14 @@
 <br/>
 
 ## 🎓 Education
-- **M.Tech CSE – IIIT Hyderabad** `CGPA 8.84` (2022-24) 🏅 Dean’s List Top 5%  
-- **B.Tech Mechanical – NSUT Delhi** `CGPA 7.82` (2017-21)
+- **M.Tech CSE – IIIT Hyderabad**  (2022-24) 🏅 Dean’s List Top 5%  
+- **B.Tech Mechanical – NSUT Delhi**  (2017-21)
 
 <br/>
 
-## 🏆 Achievements
-- **GATE CSE AIR 441** (2022)  
-- **JEE Advanced AIR 9 321** (2017)  
-- Dean’s List 1 @ IIIT-H (Top 5%) :contentReference[oaicite:3]{index=3}
+## 🏆 Achievements 
+- **JEE Advanced AIR 9321** (2017)  
+- Dean’s List 1 @ IIIT-H (Top 5%) 
 
 <br/>
 
