@@ -22,7 +22,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-informational?logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-informational?logo=mysql&logoColor=white)
 
-> Also comfy with **C, C++, ReactJS, CI/CD, System Design & ML basics**. :contentReference[oaicite:2]{index=2}
+> Also comfy with **C, C++, ReactJS, CI/CD, System Design & ML , Computer Vision , LLM's , NLP**. 
 
 <br/>
 
