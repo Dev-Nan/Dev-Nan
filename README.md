@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Toolbox
 ![Java](https://img.shields.io/badge/-Java-informational?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring Boot-informational?logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-informational?logo=springboot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-informational?logo=apachekafka&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-informational?logo=python&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-K8s-informational?logo=kubernetes&logoColor=white)
