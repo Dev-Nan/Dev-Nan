@@ -2,14 +2,14 @@
 
 # 👋 Hey there, I’m **Devesh Nandan**
 
-💻 _Java Backend Developer @ Techmojo Solutions (Jun ’24 – Present)_  
-🎓 _M.Tech CSE, IIIT Hyderabad (2022-24)_ | _B.Tech ME, NSUT Delhi (2017-21)_ :contentReference[oaicite:0]{index=0}
+💻 _Member Of Technical Staff @ Techmojo Solutions (Jun ’24 – Present)_  
+🎓 _M.Tech CSE, IIIT Hyderabad (2022-24)_ | _B.Tech , NSUT Delhi (2017-21)
 
 <br/>
 
 ## 🔭 What I’m working on
-- Designing **fault-tolerant micro-services** &️ scalable batch jobs using **Spring Boot + Kafka + S3**.
-- Building AI-powered assistants with **LLM agents** & **Vector DB** back-ends. :contentReference[oaicite:1]{index=1}
+- Designing **fault-tolerant micro-services** &️ scalable batch jobs using **Spring Boot + Kafka + Amazon S3**.
+- Building AI-powered assistants with **LLM agents** & **Vector DB** back-ends. 
 
 <br/>
 
