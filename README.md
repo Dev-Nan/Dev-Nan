@@ -7,9 +7,15 @@
 
 <br/>
 
-## 🔭 What I’m working on
-- Designing **fault-tolerant micro-services** &️ scalable batch jobs using **Spring Boot + Kafka + Amazon S3**.
-- Building AI-powered assistants with **LLM agents** & **Vector DB** back-ends. 
+## 🔭 What I’m Working On
+
+- 🧱 Designing **fault-tolerant backend systems** using **Spring Boot**, **Kafka**, and **MySQL**, with batch data pipelines built on **Amazon S3** and **Spring Batch**.
+- 🧠 Exploring **LLM-based assistants** and intelligent data agents, leveraging **LangChain**, **HuggingFace Transformers**, and **Vector DBs** for context-aware responses.
+- 🕸️ Architecting **peer-to-peer systems** and scalable **client-server models** using C++ and multithreaded socket programming.
+- 📊 Developing **end-to-end ML pipelines** — from raw data cleaning to model training and evaluation — using **NumPy**, **Pandas**, **Scikit-learn**, and **Neural Nets**.
+- 🧪 Optimizing ML models (logistic regression, decision trees, KNN, SVM) for **real-world datasets** like Twitter, stock prediction, and financial authentication.
+- 📦 Building from-scratch frameworks: custom **neural net architectures**, TF-IDF based **search engines**, and feature-rich **file explorers** with LRU cache & command stacks.
+ 
 
 <br/>
 
