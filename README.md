@@ -50,7 +50,7 @@
 
 ## 🏆 Achievements 
 - **JEE Advanced AIR 9321** (2017)  
-- Dean’s List 1 @ IIIT-H (Top 5%) 
+- Dept Rank 3 at NSIT  
 
 <br/>
 
